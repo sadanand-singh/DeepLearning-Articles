@@ -1,4 +1,4 @@
-# Object Detection Articles in 2018
+# Object Detection Articles
 
 + Assessing a mobile-based deep learning model for plant disease surveillance [[pdf](https://arxiv.org/abs/1805.08692)]
 + MDSSD: Multi-scale Deconvolutional Single Shot Detector for small objects [[pdf](https://arxiv.org/abs/1805.07009)]
